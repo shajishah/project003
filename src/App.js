@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Assignment Submitted by Syed Shaji Haider
+          Assignment Submitted by Syed Shaji Haider.
         </a>
       </header>
     </div>
